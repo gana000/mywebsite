@@ -1,0 +1,1060 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-desktop1 {
+  gap: 67px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1-frame7 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.desktop1-frame8 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-frame25 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-frame1 {
+  gap: 62px;
+  width: 1526px;
+  height: 77px;
+  display: flex;
+  padding: 34px 56px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: rgba(181, 21, 0, 1);
+}
+.desktop1-text {
+  color: rgba(255, 253, 253, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text02 {
+  color: rgba(255, 253, 253, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text04 {
+  color: rgba(255, 253, 253, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text06 {
+  color: rgba(255, 253, 253, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame26 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-frame24 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-frame2 {
+  width: 1522px;
+  height: 289px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 199, 3, 1);
+}
+.desktop1-frame22 {
+  gap: 10px;
+  top: -17px;
+  left: 1198.5px;
+  width: 648px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop1-vecteezyvectormandaladesignillustrationmandalacolo {
+  width: 628px;
+  height: 610px;
+}
+.desktop1-frame23 {
+  gap: 10px;
+  top: -273px;
+  left: -307px;
+  width: 615px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop1-vecteezyvectormandaladesignillustrationmandalacolo01 {
+  width: 595px;
+  height: 526px;
+}
+.desktop1-frame18 {
+  gap: 20px;
+  top: 7px;
+  left: 422.5px;
+  width: 678px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.desktop1-frame20 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.desktop1-image-pngtreemaadurgaeyesclipartillustration8544765 {
+  width: 178px;
+  height: 163px;
+}
+.desktop1-frame21 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop1-text08 {
+  color: rgba(0, 0, 0, 1);
+  width: 678px;
+  height: auto;
+  font-size: 48px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Noto Serif Telugu;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame3 {
+  gap: 17px;
+  width: 1274px;
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 43px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1-group11 {
+  width: 1089px;
+  height: 287px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-group10 {
+  top: 81px;
+  left: 334px;
+  width: 755px;
+  height: 172px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-group1 {
+  top: 0px;
+  left: 0px;
+  width: 755px;
+  height: 156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text10 {
+  left: 321px;
+  color: rgba(249, 10, 10, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Noto Serif Telugu;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text12 {
+  top: 68px;
+  color: rgba(0, 0, 0, 1);
+  width: 755px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-group2 {
+  top: 140px;
+  left: 496px;
+  width: 205px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text16 {
+  color: rgba(112, 0, 255, 1);
+  width: 146px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-arrow1 {
+  top: 16px;
+  left: 156.58734130859375px;
+  width: 48px;
+  height: 1px;
+  position: absolute;
+}
+.desktop1-component1 {
+  top: 0px;
+  left: 0px;
+  width: 285px;
+  height: 287px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-group5 {
+  top: 0px;
+  left: 0px;
+  width: 1353px;
+  height: 287px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-whats-app-image20240411at14462 {
+  top: 0px;
+  left: 0px;
+  width: 285px;
+  height: 287px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.desktop1-img20240411wa00531 {
+  top: 0px;
+  left: 356px;
+  width: 285px;
+  height: 287px;
+  position: absolute;
+}
+.desktop1-img20240411wa00221 {
+  top: 0px;
+  left: 1068px;
+  width: 285px;
+  height: 287px;
+  position: absolute;
+}
+.desktop1-img20240411wa00491 {
+  top: 0px;
+  left: 712px;
+  width: 285px;
+  height: 287px;
+  position: absolute;
+}
+.desktop1-group6 {
+  width: 1531px;
+  height: 621px;
+  display: flex;
+  z-index: 2;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-frame14 {
+  top: 0px;
+  left: 0px;
+  width: 1531px;
+  height: 621px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 1531px;
+  height: 621px;
+  position: absolute;
+}
+.desktop1-vecteezyvectormandaladesignillustrationmandalacolo02 {
+  top: 505px;
+  left: 929px;
+  width: 119px;
+  height: 116px;
+  position: absolute;
+}
+.desktop1-text18 {
+  top: 178px;
+  left: 1038px;
+  color: rgba(0, 0, 0, 1);
+  width: 371px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text20 {
+  top: 462px;
+  left: 1136px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text22 {
+  top: 240px;
+  left: 1134px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text24 {
+  top: 388px;
+  left: 720px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text26 {
+  top: 318px;
+  left: 239px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-group4 {
+  top: 164px;
+  left: 579px;
+  width: 386px;
+  height: 352px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-frame81 {
+  gap: 21px;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop1-text28 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text30 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text32 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text34 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text36 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame10 {
+  gap: 21px;
+  top: 0px;
+  left: 262px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop1-text38 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text40 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text42 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text44 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text46 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame11 {
+  gap: 21px;
+  top: 244px;
+  left: 262px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop1-text48 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text50 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text52 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame9 {
+  gap: 21px;
+  top: 244px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.desktop1-text54 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text56 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text58 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-line1 {
+  top: 91px;
+  left: 988px;
+  width: 498px;
+  height: 1px;
+  position: absolute;
+}
+.desktop1-line2 {
+  top: 91px;
+  left: 521px;
+  width: 498px;
+  height: 1px;
+  position: absolute;
+}
+.desktop1-frame12 {
+  gap: 341px;
+  top: 91px;
+  left: 186px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.desktop1-text60 {
+  color: rgba(149, 17, 0, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text62 {
+  color: rgba(149, 17, 0, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text64 {
+  color: rgba(149, 17, 0, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text66 {
+  top: 334px;
+  left: 1188px;
+  color: rgba(149, 17, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text68 {
+  top: 251px;
+  left: 151px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-vecteezyvectormandaladesignillustrationmandalacolo03 {
+  top: 3px;
+  left: 425px;
+  width: 193px;
+  height: 188px;
+  position: absolute;
+}
+.desktop1-vecteezyvectormandaladesignillustrationmandalacolo04 {
+  top: 3px;
+  left: 1324.5px;
+  width: 188px;
+  height: 188px;
+  position: absolute;
+}
+.desktop1-text70 {
+  top: 371px;
+  left: 172.5px;
+  color: rgba(0, 0, 0, 1);
+  width: 249px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text72 {
+  top: 391px;
+  left: 1011px;
+  color: rgba(0, 0, 0, 1);
+  width: 398px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-vecteezyvectormandaladesignillustrationmandalacolo05 {
+  top: 411px;
+  left: 20.5px;
+  width: 184px;
+  height: 188px;
+  position: absolute;
+}
+.desktop1-frame4 {
+  width: 1525px;
+  height: 536px;
+  display: flex;
+  z-index: 3;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(181, 22, 0, 1);
+}
+.desktop1-group3 {
+  top: 32px;
+  left: 555px;
+  width: 214px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text74 {
+  color: rgba(255, 253, 253, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-vecteezyvectormandaladesignillustrationmandalacolo06 {
+  top: 306px;
+  left: 968px;
+  width: 295px;
+  height: 295px;
+  position: absolute;
+}
+.desktop1-vecteezyvectormandaladesignillustrationmandalacolo07 {
+  top: -6px;
+  left: 304px;
+  width: 295px;
+  height: 295px;
+  position: absolute;
+}
+.desktop1-vecteezyvectormandaladesignillustrationmandalacolo08 {
+  top: 24px;
+  left: 1226px;
+  width: 193px;
+  height: 188px;
+  position: absolute;
+}
+.desktop1-vecteezyvectormandaladesignillustrationmandalacolo09 {
+  top: 233px;
+  left: -97px;
+  width: 295px;
+  height: 287px;
+  position: absolute;
+}
+.desktop1-frame5 {
+  gap: 104px;
+  top: 106px;
+  left: 134px;
+  width: 1112px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.desktop1-whats-app-image20240411at12101 {
+  width: 200px;
+  height: 300px;
+  border-radius: 52px;
+}
+.desktop1-img20240411wa00711 {
+  width: 200px;
+  height: 300px;
+  border-radius: 52px;
+}
+.desktop1-img20240411wa00222 {
+  width: 200px;
+  height: 300px;
+  border-radius: 52px;
+}
+.desktop1-img20240411wa00511 {
+  width: 200px;
+  height: 300px;
+  border-radius: 52px;
+}
+.desktop1-frame13 {
+  gap: 10px;
+  top: 467px;
+  left: 1088px;
+  width: 138px;
+  display: flex;
+  padding: 13px 16px 8px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  border-radius: 22px;
+  justify-content: center;
+  background-color: rgba(254, 247, 247, 1);
+}
+.desktop1-text76 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame15 {
+  gap: 10px;
+  display: flex;
+  z-index: 4;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-rectangle2 {
+  width: 1535px;
+  height: 310px;
+  border-color: rgba(0, 0, 0, 1);
+}
+.desktop1-group8 {
+  top: 2102px;
+  left: 195px;
+  width: 1158px;
+  height: 133px;
+  display: flex;
+  z-index: 5;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text78 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text80 {
+  top: 43px;
+  color: rgba(0, 0, 0, 1);
+  width: 272px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Noto Serif Telugu;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text82 {
+  top: 66px;
+  left: 509px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text84 {
+  left: 536px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text86 {
+  left: 986px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Noto Serif Telugu;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-instagram {
+  top: 33px;
+  left: 1078px;
+  width: 80px;
+  height: 100px;
+  position: absolute;
+}
+.desktop1-facebook {
+  top: 33px;
+  left: 962px;
+  width: 80px;
+  height: 100px;
+  position: absolute;
+}
